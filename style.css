@@ -1,0 +1,83 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.color{
+  background-color: #9FE2BF;
+  padding-left: 8px;
+}
+
+.bore{
+  border: 2px solid black;
+margin: 20px 250px;
+}
+
+hr{
+  margin-bottom: 0;
+  border-top: 2px solid black;
+}
+
+.upperpart{
+padding-top: 25px;
+ text-align: center;
+  font-size: 17px;
+  display: block;
+  margin-bottom: px;
+}
+
+.name{
+  font-size: 31px;
+  font-family: sans-serif;
+}
+
+.photo{
+  padding-top: 10px;
+  border-radius: 50%;
+  height: 120px;
+  width: 10%;
+float: right;
+margin-right: 20px;
+}
+
+.first{
+  margin-top: 40px;
+}
+
+.eduhead{
+  margin-top: 3px;
+  margin-bottom: 0;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.edupara{
+  margin-top: 5px;
+  margin-bottom: 0;
+
+}
+
+.eduyear{
+  float: right;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.numbered{
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.skil{
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+  margin-top: 5px;
+}
+
+.techlist{
+  margin: 0;
+}
+
+.extra{
+  margin-bottom: 8px;
+}
